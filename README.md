@@ -6,7 +6,7 @@ Assumptions:
 3. Already running an Ollama model on your computer
 
 To run:
-1. Git clone [repo]
+1. Git clone https://github.com/bbixler/chat-deepseek.git
 2. cargo run 
 3. Open a web browser and visit http://localhost:3000
 
